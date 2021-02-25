@@ -1,0 +1,2 @@
+# Countries_Of_the_world
+This Data set is a world fact sheet that shows an analysis on the of countries the world and various attributes associated with the various countries. This research project intends to assess the effect and or correlation of GDP and Death rate and infant mortality if any. Other factors I would like to explore are the deathrate per region, birthrate per region, level of service and industry in regions.
